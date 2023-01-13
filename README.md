@@ -1,5 +1,5 @@
 # Webscraping-into-MYSQL
-Extracting foreign exchange rates from the oando live website into mysql
+### Extracting foreign exchange rates from the oando live website into mysql
 
 This is a project that is parses html data from a website using jupyter notebook and stores this data into MYSQL.
 
