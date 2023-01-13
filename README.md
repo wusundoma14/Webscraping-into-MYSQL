@@ -10,4 +10,4 @@ The steps for this project were in 2 parts. The first part where I scraped the d
 ![image](https://user-images.githubusercontent.com/109106879/212238683-db5f3e4a-91b0-4798-a1c6-88f70f9ee099.png)
 
 
-To fully understand the depth of the project, read the aritcle on my meduim channel and my LinkdIn account.
+To fully understand the depth of the project, read the aritcle on my [Medium](https://medium.com/@abubakarmina14/scraping-a-website-using-jupyter-notebook-into-mysql-1620d90cf296) and my [LinkdIn](https://www.linkedin.com/in/nana-amina-abubakar-9454b8115/).
